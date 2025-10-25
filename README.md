@@ -1,7 +1,5 @@
 🚀 React Frontend Project
 
-
-
 A simple React.js frontend project built to learn and practice modern frontend development using JavaScript, React, and basic UI components.
 
 📚 Table of Contents
