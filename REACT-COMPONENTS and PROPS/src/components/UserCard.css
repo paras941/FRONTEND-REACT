@@ -1,0 +1,23 @@
+ .Container{
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(250, 203, 203) ;
+    border: 2px solid black;
+    margin: 10px;
+}  
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(250, 203, 203) ;
+}
+
+
+
+#user-src{
+  height: 200px;
+  margin: 20px;
+  border-radius: 140px;
+}
