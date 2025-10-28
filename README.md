@@ -9,7 +9,7 @@ Getting Started
 Available Scripts
 Folder Structure
 How to Contribute
-License
+License.
 
 🧠 About the Project
 
