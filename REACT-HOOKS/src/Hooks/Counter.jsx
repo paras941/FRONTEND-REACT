@@ -8,6 +8,7 @@ const Counter =() =>{
             <p id='para'>You can clicked 0 times </p>
             <button id='btn' onClick={()=>{
                    setCount(count+1)
+                //    click here
             }} > Click here</button>
         </div>
         
