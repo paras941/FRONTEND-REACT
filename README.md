@@ -17,17 +17,6 @@ Components are the core building blocks of a React application. Each one is desi
 
 A standard organization might look like:
 
-```
-src/
-├── components/
-│   ├── Button/
-│   │   ├── Button.jsx
-│   │   └── Button.css
-│   ├── Navbar/
-│   │   ├── Navbar.jsx
-│   │   └── Navbar.css
-│   └── ...
-```
 
 ### Description
 
