@@ -4,12 +4,8 @@ A simple React.js frontend project built to learn and practice modern frontend d
 
 📚 Table of Contents
 About the Project
-Tech Stack
-Getting Started
-Available Scripts
-Folder Structure
-How to Contribute
-License.
+Components and props
+Hooks
 
 🧠 About the Project
 
@@ -22,5 +18,3 @@ JavaScript (ES6+)
 HTML5 / CSS3
 Vite / Create React App (for development)
 Git + GitHub (for version control)
-
-
