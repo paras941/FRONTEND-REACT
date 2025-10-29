@@ -5,7 +5,7 @@ A simple React.js frontend project built to learn and practice modern frontend d
 📚 Table of Contents
 About the Project
 Components and props
-Hooks
+Hooks.
 
 🧠 About the Project
 
