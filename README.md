@@ -38,7 +38,7 @@ A component might:
 
 Props (short for *properties*) allow data to be passed from a parent component to a child component.
 
-### Purpose
+### Purpose.
 
 * Enable **component reusability** with different data.
 * Allow **dynamic rendering** without rewriting logic.
