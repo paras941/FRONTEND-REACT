@@ -9,7 +9,7 @@ This document explains the structure, usage, and logic behind the **components**
 
 ---
 
-## 🧩 Components
+## 🧩 Components.
 
 Components are the core building blocks of a React application. Each one is designed to be **modular**, **reusable**, and **easy to maintain**.
 
