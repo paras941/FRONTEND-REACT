@@ -4,6 +4,7 @@ A simple React.js frontend project built to learn and practice modern frontend d
 
 📚 Table of Contents
 # React Components, Props, and Hooks
+# React props as childrens and Functions
 
 This document explains the structure, usage, and logic behind the **components**, **props**, and **custom hooks** used in this React project.
 
