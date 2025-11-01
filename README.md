@@ -3,7 +3,13 @@
 A simple React.js frontend project built to learn and practice modern frontend development using JavaScript, React, and basic UI components.
 
 📚 Table of Contents
-# React Components, Props, and Hooks
+# React Components and props
+# React hooks
+# React State Lifting
+# React Conditional Rendering
+# React Event Handling
+# React Children and Function
+
 # React props as childrens and Functions
 
 This document explains the structure, usage, and logic behind the **components**, **props**, and **custom hooks** used in this React project.
