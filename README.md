@@ -9,8 +9,7 @@ A simple React.js frontend project built to learn and practice modern frontend d
 # React Conditional Rendering
 # React Event Handling
 # React Children and Function
-
-# React props as childrens and Functions
+# React useEFFECT-HOOK
 
 This document explains the structure, usage, and logic behind the **components**, **props**, and **custom hooks** used in this React project.
 
