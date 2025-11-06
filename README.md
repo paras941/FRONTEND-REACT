@@ -6,7 +6,7 @@ This repo contains a series of small, focused projects demonstrating every major
 
 ---
 
-## 📚 Topics Covered
+## 📚 Topics Covered.
 
 | No. | Folder | Concept |
 |-----|---------|----------|
