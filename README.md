@@ -28,7 +28,7 @@ This repo contains a series of small, focused projects demonstrating every major
 
 ---
 
-## 🧠 Learning Goal
+## 🧠 Learning Goal.
 
 This repository is designed to:
 - Build React knowledge step by step.
@@ -38,7 +38,7 @@ This repository is designed to:
 
 ---
 
-## ⚙️ How to Use
+## ⚙️ How to Use.
 
 1. Clone this repo:
    ```bash
