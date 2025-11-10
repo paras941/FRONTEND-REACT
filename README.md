@@ -45,12 +45,12 @@ This repository is designed to:
    git clone https://github.com/<your-username>/REACT-JOURNEY.git
 Open it in VS Code:
 
-cd REACT-JOURNEY
+cd REACT-JOURNEY.
 code .
 
 Navigate into any topic folder and run it:
 
-cd REACT-HOOKS
+cd REACT-HOOKS.
 npm install
 npm run dev
 
