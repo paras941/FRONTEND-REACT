@@ -67,7 +67,7 @@ useMemo / useCallback
 Redux Toolkit
 Form Handling
 
-🧩 Mini Projects Included
+🧩 Mini Projects Included.
 
 🧾 PasteApp: Simple React app demonstrating state management and hooks integration.
 
